@@ -1,0 +1,9 @@
+UART
+Musta GND -< CN9/12
+Orans RX  -> CN9/4
+Kelt  TX -> CN9/6
+
+DIGILENT
+Scope 1+ -> CN7/17
+Scope 1- -> CN10/3
+DNG      -> CN10/5
