@@ -256,9 +256,9 @@ def main():
     # TEST CASES ----------------------------------------------------------------
     test_cases = [
         test_read_simple,
-        test_read_range
-        test_invalid_values,
-        test_measure
+        test_read_range,
+        test_invalid_values
+        #test_measure
     ]
 
     test_sequence(mydut, test_cases)
